@@ -1,0 +1,17 @@
+TRANSFORM-TextbookExamples
+Copyright 2026 the TRANSFORM-TextbookExamples contributors.
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This library depends on TRANSFORM (https://github.com/ORNL-Modelica/TRANSFORM-Library),
+licensed separately under the Apache License, Version 2.0. TRANSFORM is not included here.
+
+Textbook sources. The textbooks cited in this library are bibliographic sources, not
+licensors of this repository. Examples use only numerical input data and published
+numerical answers from the cited worked examples. No textbook problem statement, solution
+text, figure or table is reproduced. Citations do not imply sponsorship or endorsement by
+the textbook authors or publishers.
+
+- Olivier Cleynen, Engineering Thermodynamics, International edition with SI units (2025),
+  https://thermodynamicsbook.com/ . The book is published under CC BY-SA 4.0. No part of
+  its text or artwork is included in this repository.

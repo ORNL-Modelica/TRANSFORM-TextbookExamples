@@ -1,0 +1,11 @@
+# Simulation and test output
+*.mat
+*.log
+dsin.txt
+dsfinal.txt
+dslog.txt
+dsmodel*
+dymosim*
+buildlog.txt
+work/
+__pycache__/
