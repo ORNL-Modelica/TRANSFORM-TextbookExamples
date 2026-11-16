@@ -8,6 +8,9 @@ reference value, so the examples double as tests of TRANSFORM's components.
 The library has one package per textbook. Within a package, models have descriptive
 names; each model's documentation gives the book, edition, example number and page.
 
+Models follow the conventions of the TRANSFORM library (`TRANSFORM.UsersGuide.Conventions`),
+in particular its pages on examples, documentation and citing a source.
+
 ## Textbook-source policy
 
 Models in this repository are independently written implementations using the TRANSFORM
