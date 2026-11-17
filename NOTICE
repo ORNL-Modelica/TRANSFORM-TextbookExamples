@@ -3,7 +3,7 @@ Copyright 2026 the TRANSFORM-TextbookExamples contributors.
 
 Licensed under the Apache License, Version 2.0 (see LICENSE).
 
-This library depends on TRANSFORM (https://github.com/ORNL-Modelica/TRANSFORM-Library),
+This library depends on TRANSFORM (https://github.com/WyrdLab/TRANSFORM-Library),
 licensed separately under the Apache License, Version 2.0. TRANSFORM is not included here.
 
 Textbook sources. The textbooks cited in this library are bibliographic sources, not
