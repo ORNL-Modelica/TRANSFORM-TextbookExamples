@@ -1,7 +1,7 @@
 # TRANSFORM-TextbookExamples
 
 Worked examples from engineering textbooks, rebuilt as Modelica models with the
-[TRANSFORM](https://github.com/ORNL-Modelica/TRANSFORM-Library) library. Each model
+[TRANSFORM](https://github.com/WyrdLab/TRANSFORM-Library) library. Each model
 reproduces a textbook's worked example and carries the book's published answer as a
 reference value, so the examples double as tests of TRANSFORM's components.
 
@@ -34,7 +34,7 @@ OpenModelica.
 
 The examples are tests: each has a `UnitTests` block whose `x_reference` values are the
 book's answers. Regression baselines are kept with the
-[Dynamic Systems Testing Framework](https://github.com/ORNL-Modelica/DynamicSystemsTestingFramework)
+[Dynamic Systems Testing Framework](https://github.com/WyrdLab/DynamicSystemsTestingFramework)
 in `TRANSFORMTextbookExamples/Resources/ReferenceResults/`, which expects a TRANSFORM-Library
 checkout next to this repository:
 
